@@ -1,0 +1,67 @@
+body{
+    background-color: #fff07a;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.heading_div{
+    background-color: white;
+    color: black;
+}
+
+.heading_div img{
+    width: 80px;
+}
+
+.main_div{
+    background-color: #f5e990;
+    border: 3px solid white;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.main_div label{
+    width: 310px;
+    background-color: white;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px white;
+}
+
+#webcam, #result{
+    height: 300px;
+    width: 320px;
+    border: 2px solid white;
+    box-shadow: 5px 5px 18px white;
+}
+
+.main_div button{
+    width: 310px;
+    font-size: 16px;
+    border: 1px solid white;
+    box-shadow: 5px 5px 18px white;
+}
+
+.footer_div{
+    margin-bottom: 50px;
+}
+
+.footer_div h4{
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 5px 5px 18px white;
+}
+
+.footer_div img{
+    width: 70px;
+}
+
+.copyright_div{
+    background-color: white;
+    color: gray;
+    bottom: 0px;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    line-height: 2;
+}
